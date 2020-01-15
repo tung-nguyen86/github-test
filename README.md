@@ -1,2 +1,2 @@
-# github-test
-Test some commands on GitHub.
+# Brief Description:
+I've been testing some command lines on GitHub.
