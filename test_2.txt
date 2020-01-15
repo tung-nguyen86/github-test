@@ -5,3 +5,6 @@ Tôi là Nguyễn Quang Tùng.
 Tôi ở Văn Quán - Hà Đông - Hà Nội.
 
 File test_2.txt (edit lần 1)
+--------------------------------------
+File test_2.txt (edit lần 2)
+--------------------------------------
