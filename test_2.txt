@@ -4,4 +4,8 @@ Tôi là Nguyễn Quang Tùng.
 
 Tôi ở Văn Quán - Hà Đông - Hà Nội.
 
+<<<<<<< HEAD
 Tôi đã lấy vợ cách đây gần 2 năm.
+=======
+Tôi đã lập gia đình và mới có em bé đầu lòng.
+>>>>>>> c05f159db57d99d2492f0524f1e75571bebf5bb4
